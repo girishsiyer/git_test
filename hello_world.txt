@@ -1,1 +1,1 @@
-This is a simple test to modify the file and put it in git staging area.
+This is a simple test to file and put it in git push.
