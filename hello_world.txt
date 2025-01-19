@@ -1,1 +1,2 @@
-This is a simple test to file and put it in git push.
+This is a simple test to file and put it in git push. Git commit will open Vs Code editor if you type command 
+"git commit" only. 
